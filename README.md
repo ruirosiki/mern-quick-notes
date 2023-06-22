@@ -1,3 +1,5 @@
-# MERN-Stack Infrastructure
+# MERN-Quick Notes
 
-Clone this repo to provide the starter code for a comprehensive MERN-Stack project including token-based authentication.
+Quick app to track notes
+
+
